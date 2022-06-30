@@ -91,7 +91,7 @@ This privacy policy is maintained by `YouTube Bot`'s development team. Contact i
 - ```
   JPBBerry
   Discord: JPBBerry#0001 (142408079177285632)
-  Email: jb@jt3ch.net
+  Email: me@jpbberry.dev
   ```
 
 You can also get in touch by joining our official Discord server:
